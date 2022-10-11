@@ -1,6 +1,6 @@
 ## Chihyeon Won
 
-Team Lead Dev.
+Technology Lab Developer
 
 ### 🛠 Tech Stack 🛠
 These are the technologies I can use.
