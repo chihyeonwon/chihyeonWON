@@ -48,7 +48,7 @@ These are the technologies I can use.
 
 #### Certificate
 
-##### 정보처리기사 情報處理技士 Engineer Information Processing (준비중)
+##### 정보처리기사 情報處理技士 Engineer Information Processing, 네트워크 관리사 (준비중)
 ##### ITQ 한글, 파워포인트
 ##### 자동차운전면허증 1종보통
 
