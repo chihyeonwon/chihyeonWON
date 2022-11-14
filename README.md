@@ -1,4 +1,4 @@
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heungeob1003">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heungeob1003)](https://solved.ac/heungeob1003/)
 
 ## Chihyeon Won
 
