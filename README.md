@@ -9,6 +9,9 @@ These are the technologies I can use.
 
 #### Languages
 
+#### Cross App
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+
 ##### Front-End
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Javascript ES6-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
