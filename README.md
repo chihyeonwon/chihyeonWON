@@ -11,6 +11,7 @@ These are the technologies I can use.
 
 #### Cross App
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 
 ##### Front-End
 
@@ -42,6 +43,7 @@ These are the technologies I can use.
 <img src="https://img.shields.io/badge/apache maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
 
 #### Version Control
 
