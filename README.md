@@ -49,8 +49,7 @@ These are the technologies I can use.
 
 #### Education
 
-##### Gangneung-Wonju National University major in Computer Science
-
+##### Gangneung-Wonju National University major in Computer Science, Healthcare Data Science
 #### Certificate
 
 ##### 정보처리기사 情報處理技士 Engineer Information Processing, 네트워크 관리사 (준비중)
