@@ -1,7 +1,3 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonchihyeon)](https://solved.ac/wonchihyeon/)
-
-## Chihyeon Won
-
 Technology Lab Developer
 
 ### 🛠 Tech Stack 🛠
