@@ -45,14 +45,5 @@ These are the technologies I can use.
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=Subversion&logoColor=white">
 
-#### Education
-
-##### Gangneung-Wonju National University major in Computer Science, Healthcare Data Science
-#### Certificate
-
-##### 정보처리기사 情報處理技士 Engineer Information Processing, 네트워크 관리사 (준비중)
-##### ITQ 한글, 파워포인트
-##### 자동차운전면허증 1종보통
-
 ### 📧 heungeob1003@gmail.com
 This is an email address that you can contact. 🙂
