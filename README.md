@@ -44,6 +44,3 @@ These are the technologies I can use.
 #### Version Control
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=Subversion&logoColor=white">
-
-### 📧 heungeob1003@gmail.com
-This is an email address that you can contact. 🙂
