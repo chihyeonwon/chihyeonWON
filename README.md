@@ -15,13 +15,10 @@ These are the technologies I can use.
 <img src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=Jquery&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-
 
 ##### Back-End
 
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Unix-색상?style=for-the-badge&logo=Unix&logoColor=white">
 
 #### Languages Experiences
@@ -38,7 +35,6 @@ These are the technologies I can use.
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/apache maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
 
 #### Version Control
