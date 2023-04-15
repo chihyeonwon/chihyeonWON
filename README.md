@@ -1,5 +1,8 @@
 Technology Lab Developer
 
+Department of Computer Science & Engineering
+HealthCare Data Science
+
 ### 🛠 Tech Stack 🛠
 These are the technologies I can use.
 
