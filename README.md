@@ -1,4 +1,4 @@
-Technology Lab Developer
+Businessman CTO
 
 Department of Computer Science & Engineering
 HealthCare Data Science
