@@ -1,13 +1,3 @@
-Businessman CTO
-
-Department of Computer Science & Engineering
-HealthCare Data Science
-
-### 🛠 Tech Stack 🛠
-These are the technologies I can use.
-
-#### Certification
-AWS Academy Graduate - AWS Academy Cloud Foundations(https://www.credly.com/badges/0c894683-3c03-45ed-8cc5-f29d50c80a44/public_url)
 
 #### Languages
 
